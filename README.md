@@ -29,7 +29,7 @@ I love learning new technologies and transforming ideas into impactful solutions
 
 - GitHub: [@PJBalogun](https://github.com/PJBalogun)  
 - LinkedIn: [Balogun Oluwapelumi Johnson](#) <!-- Replace # with your LinkedIn link -->  
-- Email: your.email@example.com <!-- Replace with your email -->
+- Email: pjohnsonPJB@gmail.com <!-- Replace with your email -->
 
 ---
 
